@@ -2,13 +2,15 @@
 The DFRWS 2023 challenge (The Troubled Elevator)  takes a deep dive into the domain of Industrial Control Systems (ICS), specifically focusing on programmable logic controllers (PLC). These systems are increasingly critical in various sectors, such as energy, water, transportation, and manufacturing, monitoring and controlling industrial processes. This challenge aims to provide deeper insights into ICS network traffic analysis and device memory in a real-world scenario.
 
 
-# Challegne Data
+# Challenge Data
+Please note, due to upload file size limitations, some files have been split into compressed segments. We recommend using below table to verify the integrity of the original files.
+
 |No|Description | File/Folder | SHA256|
 |:---| :---: | :---: | ---: |
 |1|Manual for programming M221 PLC control logic in elevators|/Documents/Elevator Manual.pdf|083bf2f8e4f9b72fffc472650f0ba69979a003959a9c9bf984b4756b8583c266|
 |2|Network diagram of the target network|/Documents/Network Diagrams.pdf|e674c32ea8a5348f02c9ea81b701f97b5b3f559b3f23c5562c9ee5889b41bbc9|
 |3|Network log|/Packet/142728_162728.pcapng|3b42d8eca97a62cd3db5801100b4ba51954f3c0a261bbea92d0a567e1ef885c9|
-|4|Disk image dump from CEO's desktop|/Desktop Images/DESKTOP-JKS05LO-20230622-143255.zip|87925d0c6145d6e2f1e8c955cfb12028c4219b93141b3e4815f18a50780c299e|
+|4|Disk image dump from CEO's desktop|/Desktop Images/DESKTOP-JKS05LO-20230622-143255.raw|c476d6beffde196ba185572dfe8b27aeff7c1de3095558c66539faf8dbc22c0f|
 |5|PLC's external RAM image dump|/PLC Images/ExtRAM_20230629143509.bin|ee0b4e0d06a0b4de753ed9bef4a873823ca7d091fbc052b1f9a7346093a46ae8|
 |6|PLC's external RAM image dump|/PLC Images/ExtRAM_20230629145014.bin|dda6f2b1d234e51cd6d180721415ff13928b8c81c2ae10b9aeee87addba8d282|
 |7|PLC's external RAM image dump|/PLC Images/ExtRAM_20230629150519.bin|de22844ad4f058e339472b372286a2a231af586ef264aa1e7681081e341ac3e4|
