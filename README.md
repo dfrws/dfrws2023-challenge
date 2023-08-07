@@ -1,4 +1,4 @@
-## DFRWS 2023 Challenge
+# <p style="text-align: center;"> DFRWS 2023 Challenge </p>
 The DFRWS 2023 challenge (The Troubled Elevator)  takes a deep dive into the domain of Industrial Control Systems (ICS), specifically focusing on programmable logic controllers (PLC). These systems are increasingly critical in various sectors, such as energy, water, transportation, and manufacturing, monitoring and controlling industrial processes. This challenge aims to provide deeper insights into ICS network traffic analysis and device memory in a real-world scenario.
 
 The scenario for this challenge, "The Troubled Elevator," involves investigating a mysterious incident in a bank’s executive-only elevator. Participants with different technical skills in forensic investigations are encouraged in this competition, with opportunities for innovative investigative approaches in network, disk, and embedded systems. 
@@ -8,6 +8,15 @@ The scenario for this challenge, "The Troubled Elevator," involves investigating
 Kristi Wayne from Wayne Enterprise has recently bought a controversial bank in the city of Richmond.
 On June 29, Friday afternoon, during her visit to the bank, she used an executive-only elevator designed to provide a smooth and private commute for the high-ranking officials within the bank. Wayne enters the elevator and presses the button to get to another floor. However, the elevator suddenly starts malfunctioning, trapping Wayne inside. Wayne calls from the elevator for emergency assistance. After an extended episode of patience and misery, she is finally rescued. Due to this high-profile incident, your forensic team has been called for an investigation. Fortunately, the elevator infrastructure is designed to log network traffic and device memory dumps for a certain time period. You acquire them along with CCTV footage of the elevator and the memory dump of Wayne’s new computer in her office at the bank. 
 
+
+## Evaluation Criterion
+The team that covers the incident most comprehensively will win the challenge. 
+
+
+## Submission 
+Submission deadline: May 1, 2024
+
+Submission Instructions: TBD
 
 
 ## Challenge Data
