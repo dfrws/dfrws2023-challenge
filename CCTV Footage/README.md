@@ -7,7 +7,7 @@
 
 3. **Open the Main ZIP File**: Usually, there will be a .zip file with the same name as the splitted files. Open this file using your chosen unzipping tool.
 
-4. **Extract the Files**: Select the main ZIP file(*.z01) and choose the 'Extract' option. The tool should automatically recognize the splitted files and extract them as a single archive.
+4. **Extract the Files**: Select the main ZIP file and choose the 'Extract' option. The tool should automatically recognize the splitted files and extract them as a single archive.
 
 5. **Verify the Contents**: Once extraction is complete, verify the contents to make sure all parts have been correctly assembled with provided hash in README.md.
 
