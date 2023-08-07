@@ -1,6 +1,8 @@
 # <p style="text-align: center;"> DFRWS 2023 Challenge </p>
 The DFRWS 2023 challenge (The Troubled Elevator)  takes a deep dive into the domain of Industrial Control Systems (ICS), specifically focusing on programmable logic controllers (PLC). These systems are increasingly critical in various sectors, such as energy, water, transportation, and manufacturing, monitoring and controlling industrial processes. This challenge aims to provide deeper insights into ICS network traffic analysis and device memory in a real-world scenario.
 
+![ICS Example](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Figure1.jpg)
+
 The scenario for this challenge, "The Troubled Elevator," involves investigating a mysterious incident in a bank’s executive-only elevator. Participants with different technical skills in forensic investigations are encouraged in this competition, with opportunities for innovative investigative approaches in network, disk, and embedded systems. 
 
 
@@ -16,7 +18,29 @@ The team that covers the incident most comprehensively will win the challenge.
 ## Submission 
 Submission deadline: May 1, 2024
 
-Submission Instructions: TBD
+Submission Instructions: ```TBD```
+
+
+### Contact Information
+challenge@dfrws.org
+
+
+### Challenge Organizer
+Security and Forensics Engineering (SAFE) Lab at Virginia Commonwealth University (VCU), http://people.vcu.edu/~iahmed3/
+
+SAFE Lab Team:
+
+[![Photos](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Photo.png)](http://people.vcu.edu/~iahmed3/)
+
+Irfan Ahmed, DFRWS Challenge Chair and Associate Professor at Virginia Commonwealth University
+Wooyeon Jo, Postdoctoral Research Fellow at Virginia Commonwealth University
+Adeen Ayub,  PhD Candiate at VCU
+Dr. Muhammad Haris Rais, Former PhD Student and Alumnus of SAFE Lab; now Assistant Professor at Virginia State University, VA
+Hala Ali,  PhD Student at VCU
+Nehal Ameen,  PhD Student at VCU
+Muhammad Ahsan, PhD Student at VCU
+Syed Ali Qasim, Former PhD Student and Alumnus of SAFE Lab; now Assistant Professor at Grand Valley State University, MI
+
 
 
 ## Challenge Data
