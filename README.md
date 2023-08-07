@@ -13,7 +13,7 @@ On June 29, Friday afternoon, during her visit to the bank, she used an executiv
 # Challenge Data
 Please note, due to upload file size limitations, some files have been split into compressed segments. We recommend using below table to verify the integrity of the original files.
 
-|No|Description | File/Folder | SHA256|
+|No|Description | /Path/File | SHA256|
 |:---| :---: | :---: | ---: |
 |1|Manual for programming M221 PLC control logic in elevators|/Documents/Elevator Manual.pdf|083bf2f8e4f9b72fffc472650f0ba69979a003959a9c9bf984b4756b8583c266|
 |2|Network diagram of the target network|/Documents/Network Diagrams.pdf|e674c32ea8a5348f02c9ea81b701f97b5b3f559b3f23c5562c9ee5889b41bbc9|
