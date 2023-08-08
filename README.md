@@ -3,7 +3,7 @@ The DFRWS 2023 challenge (The Troubled Elevator)  takes a deep dive into the dom
 
 ![ICS Example](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Figure1.jpg)
 
-The scenario for this challenge, "The Troubled Elevator," involves investigating a mysterious incident in a bank’s executive-only elevator. Participants with different technical skills in forensic investigations are encouraged in this competition, with opportunities for innovative investigative approaches in network, disk, and embedded systems. 
+The scenario for this challenge, "The Troubled Elevator," involves investigating a mysterious incident in a bank’s executive-only elevator. Participants with different technical skills in forensic investigations are encouraged in this competition, with opportunities for innovative investigative approaches in network, memory, and embedded systems. 
 
 
 ## Scenario: The Troubled Elevator
@@ -32,14 +32,14 @@ SAFE Lab Team:
 
 [![Photos](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Photo.png)](http://people.vcu.edu/~iahmed3/)
 
-Irfan Ahmed, DFRWS Challenge Chair and Associate Professor at Virginia Commonwealth University
-Wooyeon Jo, Postdoctoral Research Fellow at Virginia Commonwealth University
-Adeen Ayub,  PhD Candiate at VCU
-Dr. Muhammad Haris Rais, Former PhD Student and Alumnus of SAFE Lab; now Assistant Professor at Virginia State University, VA
-Hala Ali,  PhD Student at VCU
-Nehal Ameen,  PhD Student at VCU
-Muhammad Ahsan, PhD Student at VCU
-Syed Ali Qasim, Former PhD Student and Alumnus of SAFE Lab; now Assistant Professor at Grand Valley State University, MI
+- Irfan Ahmed, DFRWS Challenge Chair and Associate Professor at Virginia Commonwealth University
+- Wooyeon Jo, Postdoctoral Research Fellow at Virginia Commonwealth University
+- Adeen Ayub, PhD Candiate at VCU
+- Muhammad Haris Rais, Former PhD Student and Alumnus of SAFE Lab; now Assistant Professor at Virginia State - University, VA
+- Hala Ali, PhD Student at VCU
+- Nehal Ameen, PhD Student at VCU
+- Muhammad Ahsan, PhD Student at VCU
+- Syed Ali Qasim, Former PhD Student and Alumnus of SAFE Lab; now Assistant Professor at Grand Valley State University, MI
 
 
 
