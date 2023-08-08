@@ -28,17 +28,17 @@ challenge@dfrws.org
 ### Challenge Organizer
 Security and Forensics Engineering (SAFE) Lab at Virginia Commonwealth University (VCU), http://people.vcu.edu/~iahmed3/
 
-SAFE Lab Team:
+**SAFE Lab Team:**
 
 [![Photos](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Photo.png)](http://people.vcu.edu/~iahmed3/)
 
 - Irfan Ahmed, DFRWS Challenge Chair and Associate Professor at Virginia Commonwealth University
 - Wooyeon Jo, Postdoctoral Research Fellow at Virginia Commonwealth University
-- Adeen Ayub, PhD Candiate at VCU
+- Adeen Ayub, PhD Candiate at Virginia Commonwealth University
 - Muhammad Haris Rais, Former PhD Student and Alumnus of SAFE Lab; now Assistant Professor at Virginia State - University, VA
-- Hala Ali, PhD Student at VCU
-- Nehal Ameen, PhD Student at VCU
-- Muhammad Ahsan, PhD Student at VCU
+- Hala Ali, PhD Student at Virginia Commonwealth University
+- Nehal Ameen, PhD Student at Virginia Commonwealth University
+- Muhammad Ahsan, PhD Student at Virginia Commonwealth University
 - Syed Ali Qasim, Former PhD Student and Alumnus of SAFE Lab; now Assistant Professor at Grand Valley State University, MI
 
 
