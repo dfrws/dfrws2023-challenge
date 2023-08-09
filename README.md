@@ -10,6 +10,13 @@ The scenario for this challenge, "The Troubled Elevator," involves investigating
 Kristi Wayne from Wayne Enterprise has recently bought a controversial bank in the city of Richmond.
 On June 29, Friday afternoon, during her visit to the bank, she used an executive-only elevator designed to provide a smooth and private commute for the high-ranking officials within the bank. Wayne enters the elevator and presses the button to get to another floor. However, the elevator suddenly starts malfunctioning, trapping Wayne inside. Wayne calls from the elevator for emergency assistance. After an extended episode of patience and misery, she is finally rescued. Due to this high-profile incident, your forensic team has been called for an investigation. Fortunately, the elevator infrastructure is designed to log network traffic and device memory dumps for a certain time period. You acquire them along with CCTV footage of the elevator and the memory dump of Wayne’s new computer in her office at the bank. 
 
+## Challenge
+Your job is to investigate the entire incident and provide a comprehensive report, including:
+- Elevator behaviors during malfunctioning
+- Timeline of elevator malfunctioning
+- Specific cause of malfunctioning
+- Any evidence of an inside attacker
+- Any attack evidence on the network, computer, and PLC device
 
 ## Evaluation Criterion
 The team that covers the incident most comprehensively will win the challenge. 
