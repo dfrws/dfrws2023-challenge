@@ -3,12 +3,12 @@ The DFRWS 2023 challenge (**The Troubled Elevator**)  takes a deep dive into the
 
 [![ICS Example](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Figure1.jpg)](https://dfrws.org/forensic-challenges/)
 
-The scenario for this challenge, "The Troubled Elevator," involves investigating a mysterious incident in a bank’s executive-only elevator. Participants with different technical skills in forensic investigations are encouraged in this competition, with opportunities for innovative investigative approaches in network, memory, and embedded systems. 
+The scenario for this challenge, "The Troubled Elevator," involves investigating a mysterious incident in a bank’s executive-only elevator. Participants with different technical skills in forensic investigations are encouraged in this competition, with opportunities for innovative investigative approaches in network, memory, and embedded systems.
 
 
 ## Scenario: The Troubled Elevator
 Kristi Wayne from Wayne Enterprise has recently bought a controversial bank in the city of Richmond.
-On June 29, Friday afternoon, during her visit to the bank, she used an executive-only elevator designed to provide a smooth and private commute for the high-ranking officials within the bank. Wayne enters the elevator and presses the button to get to another floor. However, the elevator suddenly starts malfunctioning, trapping Wayne inside. Wayne calls from the elevator for emergency assistance. After an extended episode of patience and misery, she is finally rescued. Due to this high-profile incident, your forensic team has been called for an investigation. Fortunately, the elevator infrastructure is designed to log network traffic and device memory dumps for a certain time period. You acquire them along with CCTV footage of the elevator and the memory dump of Wayne’s new computer in her office at the bank. 
+On June 29, Friday afternoon, during her visit to the bank, she used an executive-only elevator designed to provide a smooth and private commute for the high-ranking officials within the bank. Wayne enters the elevator and presses the button to get to another floor. However, the elevator suddenly starts malfunctioning, trapping Wayne inside. Wayne calls from the elevator for emergency assistance. After an extended episode of patience and misery, she is finally rescued. Due to this high-profile incident, your forensic team has been called for an investigation. Fortunately, the elevator infrastructure is designed to log network traffic and device memory dumps for a certain time period. You acquire them along with CCTV footage of the elevator and the memory dump of Wayne’s new computer in her office at the bank.
 
 ## Challenge
 Your job is to investigate the entire incident and provide a comprehensive report, including:
@@ -19,10 +19,14 @@ Your job is to investigate the entire incident and provide a comprehensive repor
 - Any attack evidence on the network, computer, and PLC device
 
 ## Evaluation Criterion
-The team that covers the incident most comprehensively will win the challenge. 
+The team that covers the incident most comprehensively will win the challenge.
 
+## Team Registration
+Please register your team using the following Google form. We will use this information to contact the teams to provide relevant information as needed. Note that the team members in the form is not considered final and may change in the final submission.
 
-## Submission 
+Google Forms: https://forms.gle/f7S7yvQq5Lo6Msrj9 
+
+## Submission
 Submission deadline: May 1, 2024
 
 Submission Instructions: ```TBD```
