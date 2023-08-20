@@ -46,11 +46,11 @@ Security and Forensics Engineering (SAFE) Lab at Virginia Commonwealth Universit
 - **Irfan Ahmed**, DFRWS Challenge Chair and Associate Professor at Virginia Commonwealth University
 - **Wooyeon Jo**, Postdoctoral Research Fellow at Virginia Commonwealth University
 - **Adeen Ayub**, PhD Candiate at Virginia Commonwealth University
-- **Muhammad Haris Rais**, Former PhD Student and Alumnus of SAFE Lab; now Assistant Professor at Virginia State - University, VA
+- **Muhammad Haris Rais**, Former PhD Student and Alumnus of the SAFE Lab; now Assistant Professor at Virginia State University, VA
 - **Hala Ali**, PhD Student at Virginia Commonwealth University
 - **Nehal Ameen**, PhD Student at Virginia Commonwealth University
 - **Muhammad Ahsan**, PhD Student at Virginia Commonwealth University
-- **Syed Ali Qasim**, Former PhD Student and Alumnus of SAFE Lab; now Assistant Professor at Grand Valley State University, MI
+- **Syed Ali Qasim**, Former PhD Student and Alumnus of the SAFE Lab; now Assistant Professor at Grand Valley State University, MI
 
 
 
