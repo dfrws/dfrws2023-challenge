@@ -1,4 +1,4 @@
-## How to unzip CCTV Footage
+## How to unzip the Desktop Memory Dump
 *.z## files are splitted ZIP archive files. To unzip these files, you will need to follow the steps below:
 
 1. **Make sure all parts are in the same folder**: Before you begin, ensure that all the splitted ZIP files (e.g., z01, z02, ... zxx) are in the same directory along with the main ZIP file.
@@ -10,4 +10,3 @@
 4. **Extract the Files**: Select the main ZIP file and choose the 'Extract' option. The tool should automatically recognize the splitted files and extract them as a single archive.
 
 5. **Verify the Contents**: Once extraction is complete, verify the contents to make sure all parts have been correctly assembled with provided hash in ../README.md.
-
