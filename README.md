@@ -29,7 +29,7 @@ Submission Instructions: ```TBD```
 
 
 ### Contact Information
-challenge@dfrws.org
+ics@dfrws.org
 
 
 ### Challenge Organizer
