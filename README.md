@@ -29,7 +29,7 @@ Google Forms: https://forms.gle/f7S7yvQq5Lo6Msrj9
 ## Submission
 Submission deadline: May 1, 2024
 
-Submission Instructions: ```TBD```
+Submission Google Form: https://forms.gle/drLn7mkx5udmiio17
 
 
 ### Contact Information
