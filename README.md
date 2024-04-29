@@ -27,7 +27,7 @@ Please register your team using the following Google form. We will use this info
 Google Forms: https://forms.gle/f7S7yvQq5Lo6Msrj9
 
 ## Submission
-Submission deadline: May 1, 2024
+Submission deadline: ~~May 1, 2024~~ __June 24, 2024__ (extended)
 
 Submission Google Form: https://forms.gle/drLn7mkx5udmiio17
 
